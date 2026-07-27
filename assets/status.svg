@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+  <title id="title">System status</title>
+  <desc id="desc">Support focus, troubleshooting method, and availability.</desc>
+  <rect width="1200" height="230" fill="#0a0a0a"/>
+  <rect x="1" y="1" width="1198" height="228" fill="none" stroke="#34312c" stroke-width="2"/>
+  <line x1="400" y1="1" x2="400" y2="229" stroke="#34312c" stroke-width="2"/>
+  <line x1="800" y1="1" x2="800" y2="229" stroke="#34312c" stroke-width="2"/>
+
+  <text x="42" y="51" fill="#c9a16b" font-family="'Courier New', monospace" font-size="15" letter-spacing="2">01 / FOCUS</text>
+  <text x="42" y="105" fill="#eee5d2" font-family="Arial, sans-serif" font-size="31" font-weight="700">HELP DESK</text>
+  <text x="42" y="143" fill="#eee5d2" font-family="Arial, sans-serif" font-size="31" font-weight="700">DESKTOP SUPPORT</text>
+  <text x="42" y="190" fill="#aaa397" font-family="'Courier New', monospace" font-size="14">USER-FIRST / SUPPORT-FIRST</text>
+
+  <text x="442" y="51" fill="#c9a16b" font-family="'Courier New', monospace" font-size="15" letter-spacing="2">02 / METHOD</text>
+  <text x="442" y="105" fill="#eee5d2" font-family="Arial, sans-serif" font-size="31" font-weight="700">REPRODUCE</text>
+  <text x="442" y="143" fill="#eee5d2" font-family="Arial, sans-serif" font-size="31" font-weight="700">ISOLATE / DOCUMENT</text>
+  <text x="442" y="190" fill="#aaa397" font-family="'Courier New', monospace" font-size="14">RESOLVE OR CLEANLY ESCALATE</text>
+
+  <text x="842" y="51" fill="#c9a16b" font-family="'Courier New', monospace" font-size="15" letter-spacing="2">03 / AVAILABILITY</text>
+  <text x="842" y="105" fill="#eee5d2" font-family="Arial, sans-serif" font-size="31" font-weight="700">COLORADO SPRINGS</text>
+  <text x="842" y="143" fill="#eee5d2" font-family="Arial, sans-serif" font-size="31" font-weight="700">OR REMOTE</text>
+  <text x="842" y="190" fill="#aaa397" font-family="'Courier New', monospace" font-size="14">IT SUPPORT / FIELD IT / SYSTEMS</text>
+</svg>
