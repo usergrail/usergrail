@@ -1,1 +1,159 @@
-<p align="center">   <img src="./assets/header.svg" width="100%" alt="Usergrail � IT support, systems, and tooling"> </p>  <p align="center">   <a href="mailto:usergraildev@gmail.com"><img alt="open to work" src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-c9a16b?style=flat-square&labelColor=0a0a0a"></a>   <a href="https://usergrail.github.io/"><img alt="portfolio" src="https://img.shields.io/badge/PORTFOLIO-OPEN-eee5d2?style=flat-square&labelColor=0a0a0a"></a>   <a href="https://www.linkedin.com/in/christopher-workman-44b196230/"><img alt="linkedin" src="https://img.shields.io/badge/LINKEDIN-CONNECT-eee5d2?style=flat-square&labelColor=0a0a0a"></a>   <a href="mailto:usergraildev@gmail.com"><img alt="email" src="https://img.shields.io/badge/EMAIL-USERGRAILDEV%40GMAIL.COM-eee5d2?style=flat-square&labelColor=0a0a0a"></a>   <img alt="profile views" src="https://komarev.com/ghpvc/?username=usergrail&style=flat-square&color=c9a16b&label=PROFILE+VIEWS"> </p>  ## 01 / profile  IT support and systems candidate with customer-facing field experience and seven years of self-directed software, automation, and infrastructure work. I troubleshoot methodically, document what changed, and carry problems through resolution or a clean escalation.  <p align="center">   <img src="./assets/status.svg" width="100%" alt="Support focus, method, and availability"> </p>  ## 02 / selected work  <p align="center">   <a href="https://github.com/usergrail/Cadence"><img width="49%" src="./assets/card-cadence.svg" alt="Cadence � TypeScript systems project"></a>   <a href="https://github.com/usergrail/Phas-Save-Decrypter-and-Encrypter"><img width="49%" src="./assets/card-phas.svg" alt="Phas Save Decrypter � Rust save utility"></a> </p> <p align="center">   <a href="https://github.com/usergrail/project-lore"><img width="49%" src="./assets/card-project-lore.svg" alt="Project Lore � Lua game systems"></a>   <a href="https://github.com/usergrail/illusion-api"><img width="49%" src="./assets/card-illusion-api.svg" alt="Illusion API � TypeScript access-control API"></a> </p>  ## 03 / working set  ![Windows](https://img.shields.io/badge/WINDOWS-TROUBLESHOOTING-c9a16b?style=flat-square&labelColor=0a0a0a) ![Linux](https://img.shields.io/badge/LINUX-SUPPORT-c9a16b?style=flat-square&labelColor=0a0a0a) ![Networking](https://img.shields.io/badge/IP_NETWORKING-DNS_%2F_WIFI-c9a16b?style=flat-square&labelColor=0a0a0a) ![Git](https://img.shields.io/badge/GIT-DOCUMENTATION-c9a16b?style=flat-square&labelColor=0a0a0a) ![Rust](https://img.shields.io/badge/RUST-TOOLS-eee5d2?style=flat-square&labelColor=0a0a0a) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-SERVICES-eee5d2?style=flat-square&labelColor=0a0a0a) ![Python](https://img.shields.io/badge/PYTHON-AUTOMATION-eee5d2?style=flat-square&labelColor=0a0a0a) ![Lua](https://img.shields.io/badge/LUA-GAME_SYSTEMS-eee5d2?style=flat-square&labelColor=0a0a0a)  ## 04 / support foundations  - Windows and Linux troubleshooting - hardware, software, account, Wi-Fi, DNS, and connectivity support - ticket-style workflows using Discord, Trello, and Git issues - customer communication, field diagnosis, documentation, and follow-through - automation and small tools built around real user problems  ## 05 / certifications  - Microsoft IT Specialist � Network Security - Microsoft Technology Associate � Python, 2022 - Microsoft Technology Associate � JavaScript, 2021 - Microsoft Technology Associate � HTML/CSS, 2021  ---  <p align="center">   <b>open to IT support, help desk, desktop support, technical product support, field IT, and junior systems work</b> </p>  <p align="center">   <a href="https://usergrail.github.io/">portfolio</a> �   <a href="https://www.linkedin.com/in/christopher-workman-44b196230/">linkedin</a> �   <a href="mailto:usergraildev@gmail.com">email</a> </p> 
+<div align="center">
+
+<pre>
+USERGRAIL
+IT SUPPORT · SYSTEMS · TOOLING
+COLORADO SPRINGS, CO
+</pre>
+
+<a href="mailto:usergraildev@gmail.com"><img alt="open to work" src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-c69c6d?style=flat-square&labelColor=0d1117"></a>
+<a href="https://www.linkedin.com/in/christopher-workman-44b196230/"><img alt="linkedin" src="https://img.shields.io/badge/LINKEDIN-CONNECT-e8d7bb?style=flat-square&labelColor=0d1117"></a>
+<a href="https://usergrail.github.io/"><img alt="portfolio" src="https://img.shields.io/badge/PORTFOLIO-OPEN-e8d7bb?style=flat-square&labelColor=0d1117"></a>
+<a href="mailto:usergraildev@gmail.com"><img alt="email" src="https://img.shields.io/badge/EMAIL-USERGRAILDEV%40GMAIL.COM-e8d7bb?style=flat-square&labelColor=0d1117"></a>
+<img alt="profile views" src="https://komarev.com/ghpvc/?username=usergrail&style=flat-square&color=c69c6d&label=PROFILE+VIEWS">
+
+</div>
+
+## profile
+
+IT support and systems candidate with customer-facing field experience and seven years of self-directed software, automation, and infrastructure work. I troubleshoot methodically, document what changed, and carry problems through resolution or a clean escalation.
+
+```text
+MODE       support-first
+FOCUS      help desk · desktop support · technical product support
+LOCATION   Colorado Springs, CO
+WORKFLOW   intake → reproduce → isolate → document → resolve
+```
+
+## system status
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=usergrail&theme=github_dark" alt="usergrail GitHub statistics">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usergrail&theme=github_dark" alt="Top languages by repository">
+</p>
+
+## selected repositories
+
+| repository | signal |
+| --- | --- |
+| [`Cadence`](https://github.com/usergrail/Cadence) | TypeScript systems project |
+| [`Phas-Save-Decrypter-and-Encrypter`](https://github.com/usergrail/Phas-Save-Decrypter-and-Encrypter) | Rust save-file utility |
+| [`project-lore`](https://github.com/usergrail/project-lore) | Lua game systems |
+| [`illusion-api`](https://github.com/usergrail/illusion-api) | TypeScript access-control API |
+
+## working set
+
+![Windows](https://img.shields.io/badge/Windows-0d1117?style=flat-square&logo=windows11&logoColor=e8d7bb)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=e8d7bb)
+![Networking](https://img.shields.io/badge/IP_NETWORKING-0d1117?style=flat-square&logo=cisco&logoColor=e8d7bb)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=e8d7bb)
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=e8d7bb)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=e8d7bb)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=e8d7bb)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=e8d7bb)
+![Lua](https://img.shields.io/badge/Lua-0d1117?style=flat-square&logo=lua&logoColor=e8d7bb)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=e8d7bb)
+
+## support foundations
+
+- Windows and Linux troubleshooting
+- hardware, software, account, Wi-Fi, DNS, and connectivity support
+- ticket-style workflows using Discord, Trello, and Git issues
+- customer communication, field diagnosis, documentation, and follow-through
+- automation and small tools built around real user problems
+
+## certifications
+
+- Microsoft IT Specialist — Network Security
+- Microsoft Technology Associate — Python, 2022
+- Microsoft Technology Associate — JavaScript, 2021
+- Microsoft Technology Associate — HTML/CSS, 2021
+
+---
+
+<div align="center">
+
+**open to IT support, help desk, desktop support, technical product support, field IT, and junior systems work**
+
+[portfolio](https://usergrail.github.io/) · [linkedin](https://www.linkedin.com/in/christopher-workman-44b196230/) · [email](mailto:usergraildev@gmail.com)
+
+</div>
+<div align="center">
+
+<pre>
+USERGRAIL
+IT SUPPORT · SYSTEMS · TOOLING
+COLORADO SPRINGS, CO
+</pre>
+
+<a href="mailto:usergraildev@gmail.com"><img alt="open to work" src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-c69c6d?style=flat-square&labelColor=0d1117"></a>
+<a href="https://www.linkedin.com/in/christopher-workman-44b196230/"><img alt="linkedin" src="https://img.shields.io/badge/LINKEDIN-CONNECT-e8d7bb?style=flat-square&labelColor=0d1117"></a>
+<a href="mailto:usergraildev@gmail.com"><img alt="email" src="https://img.shields.io/badge/EMAIL-USERGRAILDEV%40GMAIL.COM-e8d7bb?style=flat-square&labelColor=0d1117"></a>
+<img alt="profile views" src="https://komarev.com/ghpvc/?username=usergrail&style=flat-square&color=c69c6d&label=PROFILE+VIEWS">
+
+</div>
+
+## profile
+
+IT support and systems candidate with customer-facing field experience and seven years of self-directed software, automation, and infrastructure work. I troubleshoot methodically, document what changed, and carry problems through resolution or a clean escalation.
+
+```text
+MODE       support-first
+FOCUS      help desk · desktop support · technical product support
+LOCATION   Colorado Springs, CO
+WORKFLOW   intake → reproduce → isolate → document → resolve
+```
+
+## system status
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=usergrail&theme=github_dark" alt="usergrail GitHub statistics">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usergrail&theme=github_dark" alt="Top languages by repository">
+</p>
+
+## selected repositories
+
+| repository | signal |
+| --- | --- |
+| [`Cadence`](https://github.com/usergrail/Cadence) | TypeScript systems project |
+| [`Phas-Save-Decrypter-and-Encrypter`](https://github.com/usergrail/Phas-Save-Decrypter-and-Encrypter) | Rust save-file utility |
+| [`project-lore`](https://github.com/usergrail/project-lore) | Lua game systems |
+| [`illusion-api`](https://github.com/usergrail/illusion-api) | TypeScript access-control API |
+
+## working set
+
+![Windows](https://img.shields.io/badge/Windows-0d1117?style=flat-square&logo=windows11&logoColor=e8d7bb)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=e8d7bb)
+![Networking](https://img.shields.io/badge/IP_NETWORKING-0d1117?style=flat-square&logo=cisco&logoColor=e8d7bb)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=e8d7bb)
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=e8d7bb)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=e8d7bb)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=e8d7bb)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=e8d7bb)
+![Lua](https://img.shields.io/badge/Lua-0d1117?style=flat-square&logo=lua&logoColor=e8d7bb)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=e8d7bb)
+
+## support foundations
+
+- Windows and Linux troubleshooting
+- hardware, software, account, Wi-Fi, DNS, and connectivity support
+- ticket-style workflows using Discord, Trello, and Git issues
+- customer communication, field diagnosis, documentation, and follow-through
+- automation and small tools built around real user problems
+
+## certifications
+
+- Microsoft IT Specialist — Network Security
+- Microsoft Technology Associate — Python, 2022
+- Microsoft Technology Associate — JavaScript, 2021
+- Microsoft Technology Associate — HTML/CSS, 2021
+
+---
+
+<div align="center">
+
+**open to IT support, help desk, desktop support, technical product support, field IT, and junior systems work**
+
+[linkedin](https://www.linkedin.com/in/christopher-workman-44b196230/) · [email](mailto:usergraildev@gmail.com) · portfolio coming soon
+
+</div>
