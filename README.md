@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="./assets/contributions.svg" width="920" alt="usergrail GitHub contribution activity for the last year" />
+<img src="./assets/contributions.svg?v=b8931331cf59" width="920" alt="usergrail GitHub contribution activity for the last year" />
 
 </div>
 
